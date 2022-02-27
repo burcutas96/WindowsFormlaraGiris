@@ -110,7 +110,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(637, 366);
+            this.ClientSize = new System.Drawing.Size(424, 237);
             this.Controls.Add(this.btn_OrtalamaHesapla);
             this.Controls.Add(this.txt_ikinciNot);
             this.Controls.Add(this.txt_birinciNot);
